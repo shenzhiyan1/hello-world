@@ -11,5 +11,5 @@ char *strcpy(char *dst,const char *src)
     return ret;
 }
 /**
-本地编辑
+本地编辑。
 **/
