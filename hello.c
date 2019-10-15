@@ -16,5 +16,5 @@ if(res!=CURLE_OK)
   curl_easy_strerror(res));
   curl_easy_cleanup(curl);
 }
-  return0;
+  return 0;
 }
