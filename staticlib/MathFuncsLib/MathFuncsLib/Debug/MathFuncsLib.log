@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  MathFuncsLib.cpp
+  MyMathFuncsLib.cpp
+  正在生成代码...
+MyMathFuncsLib.obj : warning LNK4006: "public: static double __cdecl MathFuncs::MyMathFuncs::Add(double,double)" (?Add@MyMathFuncs@MathFuncs@@SANNN@Z) 已在 MyMathFuncsLib.obj 中定义；已忽略第二个定义
+MyMathFuncsLib.obj : warning LNK4006: "public: static double __cdecl MathFuncs::MyMathFuncs::Subtract(double,double)" (?Subtract@MyMathFuncs@MathFuncs@@SANNN@Z) 已在 MyMathFuncsLib.obj 中定义；已忽略第二个定义
+MyMathFuncsLib.obj : warning LNK4006: "public: static double __cdecl MathFuncs::MyMathFuncs::Multiply(double,double)" (?Multiply@MyMathFuncs@MathFuncs@@SANNN@Z) 已在 MyMathFuncsLib.obj 中定义；已忽略第二个定义
+MyMathFuncsLib.obj : warning LNK4006: "public: static double __cdecl MathFuncs::MyMathFuncs::Divide(double,double)" (?Divide@MyMathFuncs@MathFuncs@@SANNN@Z) 已在 MyMathFuncsLib.obj 中定义；已忽略第二个定义
+  MathFuncsLib.vcxproj -> E:\MathFuncsLib\Debug\MathFuncsLib.lib
