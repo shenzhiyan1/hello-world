@@ -1,0 +1,6 @@
+Debug\pch.obj    ___@@_PchSym_@00@UnzgsufmxhoryUnzgsufmxhoryUwvyftUkxsOlyq@4B2008FD98C1DD4
+Debug\MyMathFuncsLib.obj    ?Add@MyMathFuncs@MathFuncs@@SANNN@Z
+Debug\MyMathFuncsLib.obj    ?Divide@MyMathFuncs@MathFuncs@@SANNN@Z
+Debug\MyMathFuncsLib.obj    ?Multiply@MyMathFuncs@MathFuncs@@SANNN@Z
+Debug\MyMathFuncsLib.obj    ?Subtract@MyMathFuncs@MathFuncs@@SANNN@Z
+Debug\MyMathFuncsLib.obj    __JustMyCode_Default
